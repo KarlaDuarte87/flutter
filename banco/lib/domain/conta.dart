@@ -23,5 +23,4 @@ class ContaBancaria {
     return saldo;
   }
   
-  // Adicione métodos específicos da ContaBancaria, se necessário
 }
