@@ -1,0 +1,4 @@
+anotcações:
+lib é onde vou criar tds meus objetos,
+
+classes é onde crio todas as classes
